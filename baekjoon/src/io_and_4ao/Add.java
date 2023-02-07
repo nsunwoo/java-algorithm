@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1000
+
 package io_and_4ao;
 
 import java.util.Scanner;
